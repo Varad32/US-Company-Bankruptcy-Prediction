@@ -1,5 +1,5 @@
-# Cryptocurrency-Prices-Dataset
+# US Company Bankruptcy Prediction
 
-The Cryptocurrency Prices dataset includes prices and market capitalization data for popular cryptocurrencies, such as Bitcoin, Ethereum, Litecoin, and Ripple. The data covers daily prices and market capitalization from the inception of each cryptocurrency up to the present day.
+The provided dataset is a novel dataset for bankruptcy prediction, focusing on American public companies listed on the New York Stock Exchange and NASDAQ. The dataset covers the period from 1999 to 2018 and includes accounting data from 8,262 distinct companies. It aims to predict bankruptcy events based on the financial indicators of these companies. The dataset is divided into three subsets: a training set (1999-2011), a validation set (2012-2014), and a test set (2015-2018) to evaluate the predictive capability of models in real-world scenarios.
 
-The dataset is well-suited for exploratory data analysis, time series analysis, and predictive modeling tasks related to cryptocurrencies. It can be used to examine historical price trends, correlations between different cryptocurrencies, and the overall market capitalization of the cryptocurrency market. Additionally, the data can be used to build models that predict future prices or market capitalization of specific cryptocurrencies.
+
